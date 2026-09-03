@@ -33,17 +33,14 @@ pipeline {
         }
 
 
-        stage('Deploy Application') {
-
-            steps {
-
-                bat '''
-                pm2 restart mutahir-portfolio
-                '''
-
-            }
-
-        }
+stage('Deploy Application') {
+    steps {
+        bat '''
+        set PATH=%PATH%;C:\\Users\\Mutahir Tayyab\\AppData\\Roaming\\npm
+        pm2 restart mutahir-portfolio
+        '''
+    }
+}
 
 
     }
