@@ -551,15 +551,8 @@ Potential improvements for the project include:
 Associate DevOps Engineer
 
 - GitHub: [@MutahirTayyab](https://github.com/MutahirTayyab)
-- LinkedIn: [mutahir-tayyab](https://www.linkedin.com/in/mutahir-tayyab/)
+- LinkedIn: [mutahir-tayyab](https://www.linkedin.com/in/mutahir-tayyab-575b86283/)
 
----
-
-## 📄 License
-
-If you plan to make this repository reusable by others, add a license that matches your intended usage.
-
----
 
 <p align="center">
   <strong>Built to demonstrate an end-to-end CI/CD deployment workflow on Windows Server.</strong>
