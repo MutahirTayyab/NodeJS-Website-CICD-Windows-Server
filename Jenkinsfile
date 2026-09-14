@@ -16,7 +16,7 @@ pipeline {
             steps {
 
                 git branch: 'main',
-                url: 'https://github.com/MutahirTayyab/mutahir-devops-portfolio.git'
+                url: 'https://github.com/MutahirTayyab/NodeJS-Website-CICD-Windows-Server.git'
 
             }
         }
@@ -38,7 +38,7 @@ pipeline {
             steps {
 
                 bat '''
-                xcopy /E /I /Y C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\Mutahir-Portfolio-CI-CD\\* C:\\inetpub\\wwwroot\\mutahir-devops-portfolio\\
+                xcopy /E /I /Y C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\NodeJS-Website-Windows-Server\\* C:\\inetpub\\wwwroot\\NodeJS-Website-CICD-Windows-Server\\
                 '''
 
             }
