@@ -551,14 +551,7 @@ Potential improvements for the project include:
 Associate DevOps Engineer
 
 - GitHub: [@MutahirTayyab](https://github.com/MutahirTayyab)
-- LinkedIn: [mutahir-tayyab](https://www.linkedin.com/in/mutahir-tayyab/)
-
----
-
-## 📄 License
-
-If you plan to make this repository reusable by others, add a license that matches your intended usage.
-
+- LinkedIn: [mutahir-tayyab](https://www.linkedin.com/in/mutahir-tayyab-575b86283/)
 ---
 
 <p align="center">
