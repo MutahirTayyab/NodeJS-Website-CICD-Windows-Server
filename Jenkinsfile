@@ -52,7 +52,7 @@ pipeline {
 
                 bat '''
                 set PATH=%PATH%;C:\\Users\\Mutahir Tayyab\\AppData\\Roaming\\npm
-                pm2 restart mutahir-portfolio
+                pm2 restart  NodeJS-Website-Portfolio
                 '''
 
             }
